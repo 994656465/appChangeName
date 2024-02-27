@@ -89,10 +89,26 @@
 					<string>zfb-7</string>
 					<string>zfb-8</string>
 				</array>
-				<key>UINewsstandBindingType</key>
-				<string>UINewsstandBindingTypeMagazine</string>
-				<key>UINewsstandBindingEdge</key>
-				<string>UINewsstandBindingEdgeLeft</string>
+			</dict>
+			<key>zhizhu</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>zhizhu-1024</string>
+					<string>zhizhu-60</string>
+					<string>zhizhu-40</string>
+					<string>zhizhu-29</string>
+				</array>
+			</dict>
+			<key>jiyin</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>jiyin40</string>
+					<string>jiyin29</string>
+					<string>jiyin20</string>
+					<string>jiyin60</string>
+				</array>
 			</dict>
 		</dict>
 	</dict>
